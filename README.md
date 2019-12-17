@@ -1,3 +1,4 @@
+# AI Mage
 # VNect -- Tensorflow version
 This project is the tensorflow implementation of [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/), SIGGRAPH 2017.
 
